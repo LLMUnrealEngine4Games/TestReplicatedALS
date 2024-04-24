@@ -1,3 +1,4 @@
 [submodule "Plugins/ReplicatedALS"]
 	path = Plugins/ReplicatedALS
-	url = https://github.com/eyupalemdar/Replicated-ALS.git
+	url = https://github.com/LLMUnrealEngine4Games/ALSReplicated.git
+	#url = https://github.com/eyupalemdar/Replicated-ALS.git
